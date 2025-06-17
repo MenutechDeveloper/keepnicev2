@@ -88,7 +88,8 @@ nav {
 
 @media (max-width: 992px) {
   .services .card {
-    width: 50%;
+    width: 60%;
+    height: 250px;
     margin: 10px;
   }
 }
